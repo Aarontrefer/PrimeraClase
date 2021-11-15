@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=BicicletaElectrica
+comment1.params=tipoDeLaBici\ cantidadActualBateria\ biciEnMovimiento
+comment1.target=BicicletaElectrica(java.lang.String,\ int,\ boolean)
+comment2.params=
+comment2.target=java.lang.String\ getTipoBici()
+comment3.params=
+comment3.target=int\ getActualBateria()
+comment4.params=
+comment4.target=boolean\ getBiciMovimiento()
+comment5.params=tipo
+comment5.target=void\ setTipo(java.lang.String)
+comment6.params=cargoBateria
+comment6.target=void\ cargarBateria(int)
+comment7.params=
+comment7.target=void\ montarBici()
+comment8.params=
+comment8.target=void\ imprimirDetallesBici()
+comment9.params=
+comment9.target=java.lang.String\ estadoBici()
+numComments=10
